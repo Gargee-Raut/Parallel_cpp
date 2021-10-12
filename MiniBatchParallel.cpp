@@ -4,7 +4,7 @@
 #include <math.h>
 #include <algorithm>
 #include <omp.h>
-
+//just a random comment
 using namespace std;
 
 #define RAND_FLOAT() (((float)rand()) / ((float)RAND_MAX))
